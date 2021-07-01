@@ -24,6 +24,7 @@
 ### External Activities
 - [2020-2021] 15th Youth Coordinator, U.S. Embassy, American Center
 - [2021-2022] Statistical Analysis group P-SAT (Regression Analysis Team)
+- [2021] The Federation of Korean Industries Intern (International Cooperation Team & ESG Team)
 
 
 ### Undergraduate
@@ -32,8 +33,8 @@
 - 3rd semester of Stats.: Actuarial Mathematics, Investment
 
 ### Coding
-- R: 
-- Python:
+- R
+- Python
 
 
 
