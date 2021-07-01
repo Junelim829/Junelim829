@@ -23,8 +23,9 @@
 
 ### External Activities
 - [2020-2021] 15th Youth Coordinator, U.S. Embassy, American Center
-- [2021-2022] Statistical Analysis group P-SAT (Regression Analysis Team)
+- [2020-2021] English Translation Team,Center for Students with Disabilities
 - [2021] The Federation of Korean Industries Intern (International Cooperation Team & ESG Team)
+- [2021-2022] Statistical Analysis group P-SAT (Regression Analysis Team)
 
 
 ### Undergraduate
